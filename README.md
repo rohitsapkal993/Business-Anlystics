@@ -1,2 +1,2 @@
 # Business-Anlystics
-Engenge as a business analyst with Bycycle company
+Engenge as a business analyst with braeheartbikes company
